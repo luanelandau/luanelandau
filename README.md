@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @luanelandau
-- 👀 I’m interested in Genomics and Evolution.
-- 🌱 I’m currently learning how to assemble genomes, as well as to work with RNA-seq data. The scripts updates in this account are merely for organization purposes as well as for sharing with lab mates and other colleagues that are using the same cluster as I am. This is not meant to be a step-by-step to assemble any genome or material to serve as reference. All work here is on-going.
-- 📫 You can reach me through my institutional email luanejan@buffalo.edu
+# Hi, I'm Luane 👋
+
+- 🧬 Ph.D. candidate in Evolutionary Genomics at the University at Buffalo.
+- 🔬 Interested in genomics, gene expression evolution, and comparative genomics.
+- 🌱 Currently working with RNA-seq, genome assembly, and bioinformatics.
+- 📫 Reach me at: **luanejan@buffalo.edu**
 
 <!---
 luanelandau/luanelandau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
